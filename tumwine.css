@@ -1,0 +1,36 @@
+body{
+    background: rgba(152, 251, 152, 0.151);
+}
+form{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 3px solid;
+    margin-top: 160px;
+    margin-left: 350px;
+    border-radius: 4px;
+    height: 290px;
+
+}
+input{
+    width: 420px;
+    height: 120px;
+    margin-bottom: 10px;
+    font-family: cursive;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: rgb(3, 172, 172);
+
+}
+label{
+    font-family: cursive;
+}
+button{
+    font-family: cursive;
+    border-radius: 4px;
+    margin-bottom: 4px;
+    background-color: rgb(48, 0, 0);
+}
+
